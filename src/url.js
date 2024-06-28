@@ -1,1 +1,1 @@
-export const url="https://vast-gold-jaguar-vest.cyclic.app/"
+export const url="https://doctorapp-backend-eg6v.onrender.com"
